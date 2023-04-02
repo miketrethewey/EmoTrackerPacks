@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Child Egg",
+    "type": "toggle",
+    "codes": "kidtrade,childegg,weirdegg",
+    "img": "images/egg.png",
+    "img_mods": "overlay|images/overlay_child.png"
+  },
+  {
+    "name": "Child Cucco",
+    "type": "progressive_toggle",
+    "stages": [
+      {
+        "name": "Child Cucco",
+        "codes": "kidtrade,childcucco",
+        "img": "images/cucco.png",
+        "img_mods": "overlay|images/overlay_child.png"
+      },
+      {
+        "name": "Child Cucco Used",
+        "codes": "kidtrade,childcucco,childcucco_used",
+        "img": "images/cucco.png",
+        "img_mods": "overlay|images/overlay_child.png,overlay|images/check.png"
+      }
+    ]
+  },
+  {
+    "name": "Zelda's Letter",
+    "type": "toggle",
+    "img": "images/letter.png",
+    "codes": "kidtrade,letter,postzelda"
+  },
+  {
+    "name": "Letter Sold Out",
+    "type": "toggle",
+    "img": "images/sold_out.png",
+    "codes": "kidtrade,lettershown,postguard,postzelda"
+  },
+  {
+    "name": "Keaton Mask",
+    "type": "toggle",
+    "img": "images/keaton.png",
+    "codes": "kidtrade,keaton,keatonmask,postguard,postzelda"
+  },
+  {
+    "name": "Keaton Mask Sold Out",
+    "type": "toggle",
+    "img": "images/sold_out.png",
+    "codes": "kidtrade,keatonsold,postguard,postzelda"
+  },
+  {
+    "name": "Skull Mask",
+    "type": "toggle",
+    "img": "images/skull.png",
+    "codes": "kidtrade,skull,skullmask,postguard,postzelda"
+  },
+  {
+    "name": "Skull Mask Sold Out",
+    "type": "toggle",
+    "img": "images/sold_out.png",
+    "codes": "kidtrade,skullsold,postguard,postzelda"
+  },
+  {
+    "name": "Spooky Mask",
+    "type": "toggle",
+    "img": "images/spooky.png",
+    "codes": "kidtrade,spooky,spookymask,postguard,postzelda"
+  },
+  {
+    "name": "Spooky Mask Sold Out",
+    "type": "toggle",
+    "img": "images/sold_out.png",
+    "codes": "kidtrade,spookysold,postguard,postzelda"
+  },
+  {
+    "name": "Bunny Hood",
+    "type": "toggle",
+    "img": "images/bunny.png",
+    "codes": "kidtrade,bunny,bunnymask,bunnyhood,postguard,postzelda"
+  },
+  {
+    "name": "Bunny Hood Sold Out",
+    "type": "toggle",
+    "img": "images/sold_out.png",
+    "codes": "kidtrade,bunnysold,postguard,postzelda"
+  },
+  {
+    "name": "Mask of Truth",
+    "type": "toggle",
+    "img": "images/truth.png",
+    "codes": "kidtrade,truth,maskoftruth,mot,postguard,postzelda"
+  }
+]

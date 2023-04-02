@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Adult Egg",
+    "type": "toggle",
+    "img": "images/egg.png",
+    "img_mods": "overlay|images/overlay_adult.png",
+    "codes": "adulttrade,adultegg,pocketegg"
+  },
+  {
+    "name": "Adult Cucco",
+    "type": "toggle",
+    "img": "images/cucco.png",
+    "img_mods": "overlay|images/overlay_adult.png",
+    "codes": "adulttrade,adultcucco,pocketcucco"
+  },
+  {
+    "name": "Cojiro",
+    "type": "toggle",
+    "img": "images/cojiro.png",
+    "codes": "adulttrade,cojiro"
+  },
+  {
+    "name": "Odd Mushroom",
+    "type": "toggle",
+    "img": "images/mushroom.png",
+    "codes": "adulttrade,mushroom,oddmushroom"
+  },
+  {
+    "name": "Odd Potion",
+    "type": "toggle",
+    "img": "images/medicine.png",
+    "codes": "adulttrade,oddpotion,oddpoultice"
+  },
+  {
+    "name": "Saw",
+    "type": "toggle",
+    "img": "images/saw.png",
+    "codes": "adulttrade,saw,poachersaw"
+  },
+  {
+    "name": "Broken Sword",
+    "type": "toggle",
+    "img": "images/broken_sword.png",
+    "codes": "adulttrade,brokensword"
+  },
+  {
+    "name": "Prescription",
+    "type": "toggle",
+    "img": "images/prescription.png",
+    "codes": "adulttrade,prescription"
+  },
+  {
+    "name": "Frog",
+    "type": "toggle",
+    "img": "images/frog.png",
+    "codes": "adulttrade,frog,eyeballfrog,speedfrog"
+  },
+  {
+    "name": "Eye Drops",
+    "type": "toggle",
+    "img": "images/eyedrops.png",
+    "codes": "adulttrade,eyedrops,drops"
+  },
+  {
+    "name": "Claim Check",
+    "type": "toggle",
+    "img": "images/claim.png",
+    "codes": "adulttrade,claim,claimcheck"
+  }
+]

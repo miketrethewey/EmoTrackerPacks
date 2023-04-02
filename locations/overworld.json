@@ -3831,7 +3831,7 @@
                   {
                     "name": "HC Garden",
                     "access_rules": [
-                      "$has_age|child,childcucco"
+                      "$has_age|child,childcucco_used"
                     ],
                     "sections": [
                       {
