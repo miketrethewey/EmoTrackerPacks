@@ -4869,6 +4869,10 @@
       {
         "name": "Freestanding Key",
         "short_name": "Coffin Key",
+        "access_rules": [
+          "sticks",
+          "$has_fire"
+        ],
         "chest_unopened_img": "images/small_key.png",
         "chest_opened_img": "images/small_key_check.png",
         "item_count": 1
