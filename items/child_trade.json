@@ -46,7 +46,7 @@
     "name": "Keaton Mask Sold Out",
     "type": "toggle",
     "img": "images/sold_out.png",
-    "codes": "kidtrade,keatonsold,postguard,postzelda"
+    "codes": "kidtrade,keatonsold,postguard"
   },
   {
     "name": "Skull Mask",
@@ -58,7 +58,7 @@
     "name": "Skull Mask Sold Out",
     "type": "toggle",
     "img": "images/sold_out.png",
-    "codes": "kidtrade,skullsold,postguard,postzelda"
+    "codes": "kidtrade,skullsold,postguard"
   },
   {
     "name": "Spooky Mask",
@@ -70,7 +70,7 @@
     "name": "Spooky Mask Sold Out",
     "type": "toggle",
     "img": "images/sold_out.png",
-    "codes": "kidtrade,spookysold,postguard,postzelda"
+    "codes": "kidtrade,spookysold,postguard"
   },
   {
     "name": "Bunny Hood",
@@ -82,7 +82,7 @@
     "name": "Bunny Hood Sold Out",
     "type": "toggle",
     "img": "images/sold_out.png",
-    "codes": "kidtrade,bunnysold,postguard,postzelda"
+    "codes": "kidtrade,bunnysold,postguard"
   },
   {
     "name": "Mask of Truth",
