@@ -1778,6 +1778,10 @@
                   {
                     "name": "Kak Impas House Freestanding PoH",
                     "short_name": "HP",
+                    "access_rules": [
+                      "$has_age|child,bombs",
+                      "$has_age|adult,hookshot"
+                    ],
                     "chest_unopened_img": "images/HP.png",
                     "chest_opened_img": "images/HP_grey.png",
                     "item_count": 1
