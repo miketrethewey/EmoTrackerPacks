@@ -4,6 +4,7 @@
   "package_version": "3.7.3.0",
   "package_uid": "ootrando_overworldmap_hamsda",
   "author": "Hamsda",
+  "platform": "n64",
   "variants": {
     "standard": {
       "display_name": "Map Tracker"
