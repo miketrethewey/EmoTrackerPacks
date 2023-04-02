@@ -3494,6 +3494,7 @@
                           "setting_masks_off,setting_kak_closed,lettershown",
                           "setting_masks_complete,$mask_shop_open"
                         ],
+                        "item_count": 1,
                         "hosted_item": "capture_keaton"
                       },
                       {
@@ -3502,6 +3503,7 @@
                           "keatonsold",
                           "setting_masks_complete,$mask_shop_open"
                         ],
+                        "item_count": 1,
                         "hosted_item": "capture_skullmask"
                       },
                       {
@@ -3510,6 +3512,7 @@
                           "skullsold",
                           "setting_masks_complete,$mask_shop_open"
                         ],
+                        "item_count": 1,
                         "hosted_item": "capture_spooky"
                       },
                       {
@@ -3518,6 +3521,7 @@
                           "spookysold",
                           "setting_masks_complete,$mask_shop_open"
                         ],
+                        "item_count": 1,
                         "hosted_item": "capture_bunny"
                       },
                       {
@@ -3526,6 +3530,7 @@
                           "bunnysold",
                           "setting_masks_complete,$mask_shop_open"
                         ],
+                        "item_count": 1,
                         "hosted_item": "capture_truth"
                       }
                     ],
