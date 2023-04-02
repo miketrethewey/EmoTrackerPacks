@@ -8,7 +8,7 @@
   },
   {
     "name": "Child Cucco",
-    "type": "progressive_toggle",
+    "type": "progressive",
     "stages": [
       {
         "name": "Child Cucco",
