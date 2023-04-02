@@ -1508,7 +1508,7 @@
                         "name": "Song from Malon",
                         "short_name": "Song",
                         "access_rules": [
-                          "$has_age|child,postzelda,ocarina"
+                          "$has_age|child,ocarina,malon_met_castle"
                         ],
                         "chest_unopened_img": "images/grey_note.png",
                         "chest_opened_img": "images/grey_note_check.png",
@@ -3798,6 +3798,7 @@
                         "visibility_rules": [
                           "setting_zelda_off"
                         ],
+                        "hosted_item": "malon_met_castle",
                         "capture_item": true,
                         "item_count": 1
                       }

@@ -16,6 +16,7 @@ Tracker:AddItems("items/quest.json")
 Tracker:AddItems("items/equipment.json")
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/dungeons.json")
+Tracker:AddItems("items/storymarkers.json")
 
 --CUSTOM ITEMS
 ScriptHost:LoadScript("scripts/sdk/class.lua")
